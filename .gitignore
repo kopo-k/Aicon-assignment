@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Binary
+/bin/
+*.exe
+
+# OS
+.DS_Store
